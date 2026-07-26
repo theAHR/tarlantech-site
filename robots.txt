@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theahr.github.io/tarlantech-site/sitemap.xml
